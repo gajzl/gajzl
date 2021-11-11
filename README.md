@@ -1,7 +1,9 @@
 ### G.A. Jazali
-Computer Science Student
+- Email: [`gajzl@outlook.com`](mailto:gajzl@outlook.com)
+- HN: [`jazali`](https://news.ycombinator.com/user?id=jazali)
+- DEV: [`jazali`](https://dev.to/jazali)
+- GitLab: [`jazali`](https://gitlab.com/jazali)
 
-Contact at [`gajzl@outlook.com`](mailto:gajzl@outlook.com)
 <!--
 <br />
 
